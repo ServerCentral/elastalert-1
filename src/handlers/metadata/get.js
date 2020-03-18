@@ -92,7 +92,6 @@ export function metadataElastalertHandler(request, response) {
 
   client.search({
     index,
-    type: 'elastalert',
     body: {
       from: request.query.from || 0,
       size: request.query.size || 100,
