@@ -22,7 +22,7 @@
     "babel-preset-es2015": "^6.13.2",
     "babel-register": "^6.14.0",
     "body-parser": "^1.15.2",
-    "bunyan": "^1.8.1",
+    "bunyan": "^1.8.12",
     "cors": "^2.8.4",
     "cpu-stat": "^2.0.1",
     "elasticsearch": "^16.7.1",
